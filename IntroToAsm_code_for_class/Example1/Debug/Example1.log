@@ -1,0 +1,3 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Example1.c
+  Example1.vcxproj -> D:\Projects\IntroX86\IntroToAsm_code_for_class\Debug\Example1.exe
